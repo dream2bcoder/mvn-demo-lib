@@ -1,2 +1,2 @@
 # mvn-demo-lib
-simple maven based demo library project
+simple maven based demo library project template
