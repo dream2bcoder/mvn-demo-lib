@@ -39,3 +39,6 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### MAC OS X ###
+.DS_Store
